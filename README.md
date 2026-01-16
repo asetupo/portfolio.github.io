@@ -38,7 +38,7 @@
 
     <section id="contact">
         <h2>Контакты</h2>
-        <p>Вы можете связаться со мной по электронной почте: <a href="mailto:example@example.com">example@example.com</a></p>
+        <p>Вы можете связаться со мной по электронной почте: <a href="mailto:aa.com">aa.com</a></p>
     </section>
 
     <footer>
