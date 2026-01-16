@@ -27,7 +27,7 @@
         <div class="project">
             <h3>Проект 1</h3>
             <p>Описание проекта 1. Это пример того, как я использовал технологии для создания функционального веб-приложения.</p>
-            <a href="#">Ссылка на проект</a>
+            <a href="#">(https://github.com/asetupo/bot-pet?tab=readme-ov-file)</a>
         </div>
         <div class="project">
             <h3>Проект 2</h3>
