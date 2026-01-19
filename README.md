@@ -32,7 +32,7 @@
         <div class="project">
             <h3>Проект 2</h3>
             <p>Описание проекта 2. Здесь я работал над телеграм ботом.</p>
-            <a href="#">https://github.com/asetupo/bot-pet?tab=readme-ov-file</a>
+            <a href="#">github.com/asetupo/bot-pet?tab=readme-ov-file</a>
         </div>
     </section>
 
